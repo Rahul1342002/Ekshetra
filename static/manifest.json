@@ -1,0 +1,36 @@
+{
+  "background_color": "#00aba9",
+  "description": "Ekshetra is a event organized by CSE Students of BITS Vizag",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "E-Kshetra",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "E-Kshetra",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/both.png"
+    },
+    {
+      "src": "images/180x180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "images/192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/both.png",
+      "type": "image/x-icon"
+    }
+  ]
+}

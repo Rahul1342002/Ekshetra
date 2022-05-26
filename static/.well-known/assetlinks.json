@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.vercel.bitsfest_web.twa",
+                     "sha256_cert_fingerprints": ["DB:18:C1:2A:2D:29:80:03:1A:2C:53:23:F1:C7:DF:C5:88:91:6C:61:BD:D4:56:FD:23:B8:C2:64:86:FF:97:28"] }
+      }
+]

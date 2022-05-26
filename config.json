@@ -1,0 +1,6 @@
+{
+    "dbName": "<mongo-db-name>",
+    "dbURL": "<mongo-db-url>",
+    "botToken": "<telegram-bot-token>",
+    "chatId": "<telegram-chat-id>"
+}
