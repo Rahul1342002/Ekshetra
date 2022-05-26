@@ -8,10 +8,13 @@ All configuration can be done from this file [`config.json`](https://github.com/
 
 We use mongodb as the database.
 
-`dbName` - The database name where the data need to be stored
-`dbURL` - MongoDB URL to connect and perform operations
-`botToken` - Telegram bot token. We use telegram to let our team know any new payment and they can verify it. There is a bot where we approve it via a command. I'll create a new repo and link that bot here.
-`chatId` - Its the group id / personal ID. There are many bots which they can provide you the id.
+-   `dbName` - The database name where the data need to be stored
+
+-   `dbURL` - MongoDB URL to connect and perform operations
+
+-   `botToken` - Telegram bot token. We use telegram to let our team know any new payment and they can verify it. There is a bot where we approve it via a command. I'll create a new repo and link that bot here.
+
+-   `chatId` - Its the group id / personal ID. There are many bots which they can provide you the id.
 
 ## Developing
 
