@@ -48,4 +48,4 @@ You can preview the production build with `npm run preview`.
 
 ## Deploy
 
-Currently we used [`vercel`](https://vercel.com/) to deploy. All the adapters are set for vercel by default. Just link your repository in your vercel dashboard, and you should be good to go.
+Currently we use [`vercel`](https://vercel.com/) to deploy. All the adapters are set for vercel by default. Just link your repository in your vercel dashboard, and you should be good to go.
