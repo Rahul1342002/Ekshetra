@@ -1,5 +1,6 @@
-export const jsonSecret = "t7w!z$C&F)J@NcRfUjXn2r5u8x/A?D*G-KaPdSgVkYp3s6v9y$B&E)H+MbQeThWmZq4t7w!z%C*F-JaNcRfUjXn2r5u8x/A?D(G+KbPeSgVkYp3s6v9y$B&E)H@McQfT"
-export const razorSecret = "4D635166546A576D5A7134743777217A25432A462D4A614E645267556B587032"
+import {secret} from "../../config.json"
+
+export const jsonSecret = secret
 
 export const events = [
     {

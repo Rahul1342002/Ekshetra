@@ -1,6 +1,7 @@
 {
-    "dbName": "<mongo-db-name>",
-    "dbURL": "<mongo-db-url>",
-    "botToken": "<telegram-bot-token>",
-    "chatId": "<telegram-chat-id>"
+    "dbName": "db-name",
+    "dbURL": "db-url",
+    "botToken": "telegram-bot-token",
+    "chatId": "telegram-chat-id",
+    "secret": "> 512 bits characters randomly generated jwt secret"
 }

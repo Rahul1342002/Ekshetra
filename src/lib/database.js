@@ -2,7 +2,7 @@
 import { MongoClient } from 'mongodb';
 import { ObjectId } from 'mongodb';
 
-const {dbName, dbURL} = require("../../config.json")
+import {dbName, dbURL} from "../../config.json"
 
 let cached = global.mongo;
 if (!cached) {

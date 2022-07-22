@@ -1,6 +1,6 @@
 # EKSHETRA
 
-**This is the production ready build for Ekshetra developed by Department of CSE Students at BITS Vizag**
+**This is the production ready build for Ekshetra developed by Department of CSE Students at [`BITS Vizag`](https://bitsvizag.com/)**
 
 ## Configuration
 
@@ -42,3 +42,5 @@ You can preview the production build with `npm run preview`.
 ## Deploy
 
 Currently we used [`vercel`](https://vercel.com/) to deploy. All the adapters are set for vercel by default. Just link your repository in your vercel dashboard, and you should be good to go.
+
+## Social Links
