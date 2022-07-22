@@ -16,6 +16,13 @@ We use mongodb as the database.
 
 -   `chatId` - Its the group id / personal ID. There are many bots which they can provide you the id.
 
+## Installing
+
+```bash
+# to install all necessary packages
+npm install
+```
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
