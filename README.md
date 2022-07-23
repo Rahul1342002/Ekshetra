@@ -56,3 +56,7 @@ npm run preview
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
 
 Currently we use [`vercel`](https://vercel.com/) to deploy. All the adapters are set for vercel by default. Just link your repository in your vercel dashboard, and you should be good to go.
+
+## Verify and Approve Payments
+
+you can check this repo on how to approve those payments from event ID. [Click here to visit the repo](https://github.com/SandeepDev1/EventVerify)
