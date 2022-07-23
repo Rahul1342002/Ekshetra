@@ -16,6 +16,8 @@ We use mongodb as the database.
 
 -   `chatId` - Its the group id / personal ID. There are many bots which they can provide you the id.
 
+-   `secret` - The JWT secret key to verify / create JWT token. we recommend to use greater than 512 Bits.
+
 ## Installing
 
 ```bash
