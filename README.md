@@ -16,6 +16,13 @@ We use mongodb as the database.
 
 -   `chatId` - Its the group id / personal ID. There are many bots which they can provide you the id.
 
+## Installing
+
+```bash
+# to install all necessary packages
+npm install
+```
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
@@ -41,6 +48,10 @@ You can preview the production build with `npm run preview`.
 
 ## Deploy
 
+<<<<<<< HEAD
 Currently we used [`vercel`](https://vercel.com/) to deploy. All the adapters are set for vercel by default. Just link your repository in your vercel dashboard, and you should be good to go.
 
 ## Social Links
+=======
+Currently we use [`vercel`](https://vercel.com/) to deploy. All the adapters are set for vercel by default. Just link your repository in your vercel dashboard, and you should be good to go.
+>>>>>>> 20ccb7db2ea9defd378206c103d58e39079179c5
