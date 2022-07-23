@@ -18,6 +18,13 @@ We use mongodb as the database.
 
 -   `secret` - The JWT secret key to verify / create JWT token. we recommend to use greater than 512 Bits.
 
+## Dependencies
+```bash
+NodeJS v16+
+```
+
+You can download NodeJS from [here](https://nodejs.org/en/download/)
+
 ## Installing
 
 ```bash
